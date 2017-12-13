@@ -21,7 +21,7 @@ namespace WinFormCCCDataSet
         private static string GetGeneralSqlConnectionString()
         {
             string strSQLConnectString = ConfigurationManager.ConnectionStrings["AAB_GEN_DB"].ToString();
-            return strSQLConnectString;
+            return strSQLConnectString.ToString();
         }
 
 
