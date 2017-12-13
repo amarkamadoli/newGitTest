@@ -62,27 +62,34 @@ namespace WinFormCCCDataSet
 
         private void RebuildAllDBTableIndexes()
         {
-            using (SqlConnection conn = new SqlConnection(GetGeneralSqlConnectionString()))
+            try
             {
-                conn.Open();
-                string strSQL = string.Empty;
-                SqlCommand cmd = null;
-
-                strSQL = "usp_rebuild_all_DB_indexes";
-                cmd = new SqlCommand(strSQL, conn);
-                cmd.CommandType = CommandType.StoredProcedure;
-
-                try
+                using (SqlConnection conn = new SqlConnection(GetGeneralSqlConnectionString()))
                 {
-                    SqlDataReader rdr = cmd.ExecuteReader();
-                    lblRebuildIndexes.Text = "Indexes Rebuilt: " + DateTime.Now.ToString();
-                }
-                catch (Exception ex)
-                {
-                    string strEx = ex.Message.ToString();
-                    lblRebuildIndexes.Text = "Indexes Rebuilt: " + strEx;
+                    conn.Open();
+                    string strSQL = string.Empty;
+                    SqlCommand cmd = null;
+
+                    strSQL = "usp_rebuild_all_DB_indexes";
+                    cmd = new SqlCommand(strSQL, conn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    try
+                    {
+                        SqlDataReader rdr = cmd.ExecuteReader();
+                        lblRebuildIndexes.Text = "Indexes Rebuilt: " + DateTime.Now.ToString();
+                    }
+                    catch (Exception ex)
+                    {
+                        string strEx = ex.Message.ToString();
+                        lblRebuildIndexes.Text = "Indexes Rebuilt: " + strEx;
+                    }
                 }
             }
+            catch
+            {
+                //
+            }         
         }
 
         private void btnDoWork_Click(object sender, EventArgs e)

@@ -17,3 +17,13 @@ C:\Users\Administrator\MyGitHub\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.Pr
 C:\Users\Administrator\MyGitHub\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.csproj.GenerateResource.Cache
 C:\Users\Administrator\MyGitHub\WinFormCCCDataSet\bin\Debug\WinFormCCCDataSet.exe
 C:\Users\Administrator\MyGitHub\WinFormCCCDataSet\bin\Debug\WinFormCCCDataSet.pdb
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\bin\Debug\WinFormCCCDataSet.exe.config
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\bin\Debug\WinFormCCCDataSet.exe
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\bin\Debug\WinFormCCCDataSet.pdb
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.csproj.ResolveComReference.cache
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.frmMainForm.resources
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.Properties.Resources.resources
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.csproj.GenerateResource.Cache
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.csproj.CoreCompileInputs.cache
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.exe
+C:\Users\Amar\Source\Repos\newGitTest\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.pdb
