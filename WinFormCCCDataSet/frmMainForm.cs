@@ -13,6 +13,8 @@ using System.Configuration;
 using System.Diagnostics;
 using System.Globalization;
 
+// using
+
 namespace WinFormCCCDataSet
 {
     public partial class frmMainForm : Form
