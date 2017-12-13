@@ -1,0 +1,10 @@
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\bin\Debug\WinFormCCCDataSet.exe.config
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\bin\Debug\WinFormCCCDataSet.exe
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\bin\Debug\WinFormCCCDataSet.pdb
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.frmMainForm.resources
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.Properties.Resources.resources
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.csproj.GenerateResource.Cache
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.exe
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.pdb
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.csproj.ResolveComReference.cache
+C:\Junk\Code\AAB\BuildMasterCCCDataSet\WinFormCCCDataSet\obj\Debug\WinFormCCCDataSet.csprojResolveAssemblyReference.cache
