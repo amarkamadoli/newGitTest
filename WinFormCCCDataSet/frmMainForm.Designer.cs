@@ -100,12 +100,14 @@
             // btnExportToExcel
             // 
             this.btnExportToExcel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnExportToExcel.BackColor = System.Drawing.Color.Green;
+            this.btnExportToExcel.ForeColor = System.Drawing.Color.White;
             this.btnExportToExcel.Location = new System.Drawing.Point(736, 486);
             this.btnExportToExcel.Name = "btnExportToExcel";
             this.btnExportToExcel.Size = new System.Drawing.Size(120, 23);
             this.btnExportToExcel.TabIndex = 6;
             this.btnExportToExcel.Text = "Export to Excel";
-            this.btnExportToExcel.UseVisualStyleBackColor = true;
+            this.btnExportToExcel.UseVisualStyleBackColor = false;
             this.btnExportToExcel.Click += new System.EventHandler(this.btnExportToExcel_Click);
             // 
             // lblExportRow
